@@ -1,0 +1,18 @@
+Ejercicio 1: 
+    cd Ejersicio1 
+    cd src   
+    g++ -std=c++17 *.cpp -o out 
+    ./out 
+
+Ejercicio 2: 
+    cd Ejersicio2 
+    cd src 
+    g++ -std=c++17 *.cpp -o out 
+    ./out 
+
+Ejercicio 3: 
+    cd Ejersicio3 
+    cd src 
+    g++ -std=c++17 *.cpp -o out 
+    ./out 
+
